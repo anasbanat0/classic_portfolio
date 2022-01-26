@@ -1,4 +1,4 @@
-<section class="our-team">
+<section id="team" class="our-team">
   <div class="container">
     <div class="box">
       <h2 class="special-heading">Our Team</h2>

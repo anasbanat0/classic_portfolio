@@ -20,6 +20,9 @@ ul {
   padding: 0;
   margin: 0;
 }
+a {
+  text-decoration: none;
+}
 .navbar,
 .header,
 .services,
@@ -44,6 +47,9 @@ ul {
   text-transform: uppercase;
   text-align: center;
   margin-top: 10px;
+}
+.navbar .brand h2 a {
+  color: white;
 }
 .navbar .links {
   float: left;

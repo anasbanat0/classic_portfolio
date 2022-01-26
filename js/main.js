@@ -5,7 +5,7 @@ $(function () {
   var myHeader = $(".header"),
     mySlider = $(".bxslider");
   myHeader.height($(window).height());
-  $(window).resize(function () {
+  $(window).on(function () {
     myHeader.height($(window).height());
     // Adjust BxSlider List Item Center
     mySlider.each(function () {
