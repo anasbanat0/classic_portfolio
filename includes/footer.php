@@ -2,6 +2,7 @@
   <div class="container">
     <section class="col">
       <h2>About Classic</h2>
+      
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere
         sint, nostrum ducimus perferendis quos sit, adipisci numquam optio,
