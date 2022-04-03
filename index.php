@@ -30,6 +30,7 @@
   <!-- Start Footer -->
   <?php include 'includes/footer.php'; ?>
   <!-- End Footer -->
+  
   <script src="js/jquery-3.5.1.min.js"></script>
   <script src="js/jquery.bxslider.min.js"></script>
   <script src="js/jquery.mixitup.js"></script>
