@@ -8,7 +8,6 @@
   <link type="text/css" rel="stylesheet" href="css/web.css" />
   <link type="text/css" rel="stylesheet" href="css/fontawesome.min.css" />
 </head>
-  
 <body>
   <!-- Start Navigation Bar -->
   <?php include 'includes/nav.php'; ?>
